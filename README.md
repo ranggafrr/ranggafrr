@@ -1,8 +1,8 @@
+
+![Rangga Firmansyah](img/github-header-image-2.png)
 <h2 align="left">🚀About me</h2>
 
 ###
-![Rangga Firmansyah](img/github-header-image-2.png)
-
 - 🔭  I’m currently Working as a Full-Stack Developer at **LAZ Assyifa Peduli**
 - ⚙️ I use daily: `.tsx`, `.php`, `.blade`, `.ts`, `.html`, `.css`
 ###
