@@ -1,6 +1,6 @@
 
 ![Rangga Firmansyah](img/github-header-image-2.png)
-<h2 align="left">🚀About me</h2>
+<h2 align="left">🚀About Me</h2>
 
 ###
 - 🔭  I’m currently Working as a Full-Stack Developer at **LAZ Assyifa Peduli**
